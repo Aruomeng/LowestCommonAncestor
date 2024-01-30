@@ -56,8 +56,6 @@ public class LowestCommonAncestor {
         TreeNode lca = lcaFinder.lowestCommonAncestor(root, p, q);
 
         System.out.println("The Lowest Common Ancestor of " + p.val + " and " + q.val + " is: " + lca.val);
-        System.out.println("你看到我,说明你更新成功了");
-        System.out.println("你看到我,说明你开发分支好哩");
 
 
     }
