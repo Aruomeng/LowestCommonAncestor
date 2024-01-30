@@ -57,6 +57,8 @@ public class LowestCommonAncestor {
 
         System.out.println("The Lowest Common Ancestor of " + p.val + " and " + q.val + " is: " + lca.val);
         System.out.println("没错你做到了");
+        System.out.println("没错你做到了");
+
     }
 }
 
